@@ -20,7 +20,8 @@ How to Create a Fillable PDF Form in Word
 # 應用測試
 1. 用 [Adobe Acrobat Reader DC](https://get.adobe.com/tw/reader/)開啟fillable PDF。
 2. 填寫好欄位。
-3. 使用 Virtual PDF Printer 再“列印”成內容定死的PDF。
+3. 使用 Virtual PDF Printer 再“列印”成內容定死的PDF。  
+   Windows 10 內建Microsoft Print to PDF 虛擬印表機。或網路上也有其他免費的版本。
 
 # 相關資源
 * [Create a Fillable PDF Form from a Word Document](https://hip.ucdavis.edu/technical-support/create-fillable-pdf-form-word-document)
