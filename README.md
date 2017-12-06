@@ -25,6 +25,7 @@ How to Create a Fillable PDF Form in Word
 # 相關資源
 * [Create a Fillable PDF Form from a Word Document](https://hip.ucdavis.edu/technical-support/create-fillable-pdf-form-word-document)
 * [How to Create a Fillable PDF Form in Word](https://www.youtube.com/watch?v=RzmsSmyGLRQ)
+* [填寫 PDF 表格](https://helpx.adobe.com/tw/acrobat/using/filling-pdf-forms.html)
 
 # 原理
 其實fillable PDF那些可以填寫的欄位，在規格上的名稱是「ArcoForm」。  
